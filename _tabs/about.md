@@ -1,4 +1,7 @@
 ---
+permalink: /
+redirect_from:
+  - /about
 # the default layout is 'page'
 title: About Me
 icon: fas fa-info-circle
